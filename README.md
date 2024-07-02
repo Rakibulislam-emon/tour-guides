@@ -1,4 +1,5 @@
 # tour-guides
+**this is a tourism website where visitor's can find thire perfect location for their vacation in budged**
 
 #features
 * you can add new tour spots
